@@ -4,7 +4,7 @@ Doing a single operation calculation.
 
 Video (YouTube): 
 
-##Additional activities
+## Additional activities
 The following may be assigned by your teacher or you can choose to work through on your own.
 
 1. Calculate the area of a square.  You will need to ask for the length of the side of the square. Then calculate and display the area.
