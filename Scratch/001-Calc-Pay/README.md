@@ -5,7 +5,10 @@ Doing a single operation calculation.
 Video (YouTube): 
 
 Code:
-[[./calc-pay-final.JPG]]
+
+[[calc-pay-final.jpg]]
+
+<figure><img src="calc-pay-final.jpg"><figcaption>calc pay</figcaption></figure>
 
 ## Additional activities
 The following may be assigned by your teacher or you can choose to work through on your own.
