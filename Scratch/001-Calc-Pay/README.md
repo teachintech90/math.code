@@ -4,7 +4,8 @@ Doing a single operation calculation.
 
 Video (YouTube): 
 
-Final Code: <img src="calc-pay-final.jpg">
+Final Code:
+<img src="calc-pay-final.jpg">
 
 ## Additional activities
 The following may be assigned by your teacher or you can choose to work through on your own.
