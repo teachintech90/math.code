@@ -2,7 +2,7 @@
 
 Doing a single operation calculation.
 
-Video (YouTube): 
+[Video (YouTube):](https://youtu.be/nVhhQRKqVsI){:target="_blank"}
 
 Final Code:
 <img src="calc-pay-final.jpg">
