@@ -8,5 +8,6 @@ Below is a progression of videos and learning activities to do coding in a mathe
 
 [Calculating Pay](Scratch/001-Calc-Pay/README.md) - Single operation calculation
 
-Order of Operations - Multiple operation calculations
+[Order of Operations](Scratch/002-Order-Of-Operations/README.md) - Multiple operation calculations
 
+... additional topics being worked on ...
