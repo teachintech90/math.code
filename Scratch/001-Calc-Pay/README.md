@@ -9,6 +9,7 @@ Previous Activity: [Getting Started with Scratch](https://github.com/teachintech
 Next Activity: [Order of Operations - Calculating Mileage](https://github.com/teachintech90/math.code/blob/main/Scratch/002-Order-Of-Operations/README.md)
 
 Final Code:
+
 <img src="calc-pay-final.jpg">
 
 ## Additional activities
