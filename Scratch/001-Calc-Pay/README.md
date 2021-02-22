@@ -2,7 +2,10 @@
 
 Doing a single operation calculation.
 
-[Video (YouTube):](https://youtu.be/nVhhQRKqVsI){:target="_blank"}
+[Video (YouTube)](https://youtu.be/nVhhQRKqVsI)
+Previous Activity: [Getting Started with Scratch](https://github.com/teachintech90/math.code/blob/main/Scratch/000-Getting-Started/README.md)
+Next Activity: [Order of Operations - Calculating Mileage](https://github.com/teachintech90/math.code/blob/main/Scratch/002-Order-Of-Operations/README.md)
+
 
 Final Code:
 <img src="calc-pay-final.jpg">
