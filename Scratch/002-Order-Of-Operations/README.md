@@ -1,9 +1,12 @@
 # Order of Operations - Calculating Mileage
 
-Doing a multiple operation calculation, video covers order of operation.
+Doing a multiple operation calculation demonstrating order of operation.
 
-[Video (YouTube):](https://youtu.be/osZqYKOklIQ){:target="_blank"}
+[Video (YouTube):](https://youtu.be/osZqYKOklIQ)
 
+Previous Activity: [Simple Calculations - Calculating Pay](https://github.com/teachintech90/math.code/blob/main/Scratch/001-Calc-Pay/README.md)
+
+Next Activity: 
 
 Final Code:
 <img src="MPG-final.JPG">
