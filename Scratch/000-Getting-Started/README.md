@@ -4,4 +4,5 @@ This video provides some tips when starting with and using the Scratch coding en
 
 [Video (YouTube)](https://www.youtube.com/watch?v=_pMXH9cJak4)
 
-[Next Activity]()
+Next Activity: [Simple Calculations - Calculating Pay](https://github.com/teachintech90/math.code/blob/main/Scratch/001-Calc-Pay/README.md)
+
