@@ -43,4 +43,20 @@ The following may be assigned by your teacher or you can choose to work through 
 
 1. Calculate the number of parts made each minute.  Ask for the number of parts made in one hour then display the number of parts created each minute.
 
+1. add
+
+1. add
+
+1. add
+
+1. sub
+
+1. sub
+
+1. mult
+
+1. mult
+
+1. div
+
 1. Additional problems as assigned by your teacher or that you would like to try on your own.
