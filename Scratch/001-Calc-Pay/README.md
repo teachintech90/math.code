@@ -13,7 +13,7 @@ Final Code:
 <img src="calc-pay-final.jpg">
 
 ## Additional activities
-The following may be assigned by your teacher or you can choose to work through on your own.
+Your teacher will assign you some of the items below or you can choose to work through some of them on your own.
 
 1. Calculate the total number of tools shipped to the store.  You will ask for the number of tools shipped in from the east warehouse and how many tools are shipped from the west warehouse.  Display the total number of tools shipped.
 
@@ -51,7 +51,7 @@ The following may be assigned by your teacher or you can choose to work through 
 
 1. Find the temperature change.  Ask for the temperature on one day then ask for the temperature on another day.  Display the temperature change.
 
-1. mult
+1. Convert inches to centimeters.  Ask for the number of inches to convert to centimeters.  Multiply inches by 2.540 to get the number of centimeters then display that value.
 
 1. Calculate the total taco cost.  Ask for the number of tacos and the cost of each taco.  Display the total cost of the tacos.
 
