@@ -13,6 +13,6 @@ Final Code:
 
 ## Additional activities
 
-The following may be assigned by your teacher or you can choose to work through on your own.
+Your teacher will assign you some of the items below or you can choose to work through some of them on your own. If not sure how to do the problem or the terms used, first research and try then ask you teacher if needed.
 
 1. 
