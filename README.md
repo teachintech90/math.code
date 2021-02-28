@@ -10,4 +10,9 @@ Below is a progression of videos and learning activities to do coding in a mathe
 
 [Order of Operations](Scratch/002-Order-Of-Operations/README.md) - Multiple operation calculations
 
+[Converting between units](Scratch/003-Converting-Between-Units/README.md) - Inches to feet to yards 
+
 ... additional topics being worked on ...
+
+
+[Teachers](Teachers/README.md) - Some suggestions for teachers 
