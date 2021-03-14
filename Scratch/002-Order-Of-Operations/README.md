@@ -15,4 +15,6 @@ Final Code:
 
 Your teacher will assign you some of the items below or you can choose to work through some of them on your own. If not sure how to do the problem or the terms used, first research and try then ask you teacher if needed.
 
-1. 
+1. Calculate the total purchase price.  Ask for the cost of the items and the tax rate.  Calculate the amount of tax on the items then the total purchase cost.
+
+
