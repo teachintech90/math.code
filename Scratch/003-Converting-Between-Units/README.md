@@ -2,11 +2,11 @@
 
 Code to convert between inches, feet, and yards.
 
-Video (YouTube)
+[Video (YouTube)](https://youtu.be/stB1_cookDs)
 
 Previous Activity: [Order of Operations - Calculating Mileage](https://github.com/teachintech90/math.code/blob/main/Scratch/002-Order-Of-Operations/README.md)
 
-Next Activity:
+Next Activity: [Conditions - Overtime Pay](https://github.com/teachintech90/math.code/blob/main/Scratch/004-Conditions-Overtime-Pay/README.md)
 
 Final code:
 
