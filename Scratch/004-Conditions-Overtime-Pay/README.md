@@ -2,11 +2,11 @@
 
 Calculations that involve checking conditions (logic).  Example is overtime pay.
 
-[Video (YouTube)]()
+[Video (YouTube)](https://youtu.be/wbGtm4LyAh8)
 
-Previous Activity: []()
+Previous Activity: [Converting Between Units](https://github.com/teachintech90/math.code/blob/main/Scratch/003-Converting-Between-Units/README.md)
 
-Next Activity: []()
+Next Activity: [Calc Repeat](https://github.com/teachintech90/math.code/blob/main/Scratch/005-Calc-Repeat/README.md)
 
 Final Code:
 
