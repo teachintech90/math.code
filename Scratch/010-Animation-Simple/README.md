@@ -2,11 +2,11 @@
 
 Explore and practice using the coordinate system doing some simple animations.
 
-[Video (YouTube)]()
+[Video (YouTube)](https://youtu.be/8edeRpAqqXA)
 
-Previous Activity: []()
+Previous Activity: [Repetitive Calculations](https://github.com/teachintech90/math.code/blob/main/Scratch/005-Calc-Repeat/README.md)
 
-Next Activity: []()
+Next Activity: [More Simple Animation - Scale and Rotate](https://github.com/teachintech90/math.code/blob/main/Scratch/011-More-Simple-Animation/README.md)
 
 Final Code:
 
