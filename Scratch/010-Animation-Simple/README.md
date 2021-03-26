@@ -10,7 +10,7 @@ Next Activity: [More Simple Animation - Scale and Rotate](https://github.com/tea
 
 Final Code:
 
-<img src="final.jpg">
+<img src="Simple-Animation-Butterfly.JPG">
 
 ## Additional activities
 
