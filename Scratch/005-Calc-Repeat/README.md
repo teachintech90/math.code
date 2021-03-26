@@ -10,7 +10,7 @@ Next Activity: [Animation - Simple](https://github.com/teachintech90/math.code/b
 
 Final Code:
 
-<img src="final.jpg">
+<img src="Calc-Repeat.JPG">
 
 ## Additional activities
 
