@@ -6,7 +6,7 @@ Calculations that involve checking conditions (logic).  Example is overtime pay.
 
 Previous Activity: [Converting Between Units](https://github.com/teachintech90/math.code/blob/main/Scratch/003-Converting-Between-Units/README.md)
 
-Next Activity: [Calc Repeat](https://github.com/teachintech90/math.code/blob/main/Scratch/005-Calc-Repeat/README.md)
+Next Activity: [Repetitive Calculations](https://github.com/teachintech90/math.code/blob/main/Scratch/005-Calc-Repeat/README.md)
 
 Final Code:
 
