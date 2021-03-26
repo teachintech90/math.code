@@ -10,7 +10,7 @@ Next Activity: [Repetitive Calculations](https://github.com/teachintech90/math.c
 
 Final Code:
 
-<img src="final.jpg">
+<img src="Conditions-Overtime-Pay.JPG">
 
 ## Additional activities
 
