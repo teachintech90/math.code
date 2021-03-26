@@ -10,6 +10,8 @@ Next Activity: [Conditions - Overtime Pay](https://github.com/teachintech90/math
 
 Final code:
 
+<img src="Converting-Between-Units-composite.jpg">
+
 ## Activities
 
 Your teacher will assign you some of the items below or you can choose to work through some of them on your own. If not sure how to do the problem or the terms used, first research and try then ask you teacher if needed.
