@@ -2,7 +2,7 @@
 
 More animation demonstrating scaling and rotating.
 
-[Video (YouTube)]()
+[Video (YouTube)](https://youtu.be/Lsj0zzypLkk)
 
 Previous Activity: [Animation - Simple](https://github.com/teachintech90/math.code/blob/main/Scratch/010-Animation-Simple/README.md)
 
@@ -10,7 +10,7 @@ Next Activity: [Animation with Two Sprites](https://github.com/teachintech90/mat
 
 Final Code:
 
-<img src="final.jpg">
+<img src="scale-rotate-final.jpg">
 
 ## Additional activities
 
