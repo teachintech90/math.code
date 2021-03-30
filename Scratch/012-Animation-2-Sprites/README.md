@@ -2,7 +2,7 @@
 
 Animation with two sprites, example is a car with a smoke trail.
 
-[Video (YouTube)]()
+[Video (YouTube)](https://youtu.be/hZYvOmTATw8)
 
 Previous Activity: [More Simple Animation - Scale and Rotate](https://github.com/teachintech90/math.code/blob/main/Scratch/011-More-Simple-Animation/README.md)
 
@@ -10,7 +10,7 @@ Next Activity: []()
 
 Final Code:
 
-<img src="final.jpg">
+<img src="Animation-2-Sprites-final.jpg">
 
 ## Additional activities
 
