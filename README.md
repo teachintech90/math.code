@@ -1,3 +1,5 @@
+OCTM 2023 Presentation slides will be posted by Friday morning, please check back.  See the Presos folder and links below for other resources.
+
 # math.code Teachin/Learnin Guide
 
 ## Scratch
